@@ -3,10 +3,8 @@
 Saya adalah seorang profesional di bidang [sebutkan bidang spesialisasi Anda, misalnya: pengembangan perangkat lunak, manajemen proyek, teknik sipil], dengan pengalaman di [sebutkan industri atau perusahaan terkait, misalnya: teknologi, konstruksi, manufaktur]. Saya memiliki latar belakang pendidikan dari [sebutkan institusi pendidikan Anda, misalnya: Universitas Indonesia, Institut Teknologi Bandung].
 
 ### 🔧 Keahlian & Teknologi
-- **Bahasa Pemrograman:** [sebutkan bahasa pemrograman yang dikuasai, misalnya: JavaScript, Python, Java]
-- **Framework & Alat:** [sebutkan framework atau alat yang digunakan, misalnya: React, Node.js, Git]
-- **Manajemen Proyek:** [sebutkan metodologi atau alat manajemen proyek, misalnya: Agile, Jira]
-- **Bidang Lainnya:** [sebutkan keahlian atau bidang lain yang relevan]
+- **Bahasa Pemrograman:** JavaScript, Python, Java
+- **Framework & Alat:** React, Node.js, Git
 
 ### 📍 Lokasi
 Saya berbasis di Jakarta.
