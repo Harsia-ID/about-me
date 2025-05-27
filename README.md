@@ -20,6 +20,23 @@ Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain U
 - Network Design, Network Security, Network Administration  
 - Linux System Administration  
 
+## 💼 Pengalaman Kerja
+
+**HAR/INSTRUMENT (Anak perusahaan PT PLN (Persero))**  
+_Oktober 2023 – Januari 2024 (3 bulan)_  
+- Mempelajari fasilitas pembangkit listrik di Tanjung Priok  
+- Memahami proses pembangkitan listrik  
+- Memahami REOC (Reliability, Efficiency, Optimization Center)  
+- Memahami Human Machine Interface (HMI)  
+- Mempelajari topologi jaringan di pembangkit listrik  
+
+**IT Research And Development, PT. Usaha Jayamas Bhakti (UJB)**  
+_Januari 2025 – Maret 2025 (3 bulan)_  
+- Mempelajari self service panel  
+- Mempelajari teknik cable crimping  
+- Belajar backup data menggunakan AOMEI  
+- Memahami konsep dan implementasi jaringan komputer  
+
 ## 📍 Lokasi
 Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
 
