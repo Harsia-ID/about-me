@@ -77,10 +77,10 @@ Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain U
 
 ## 🛤️ Perjalanan Saya
 
-- 🎓 2023: Lulus SMK dengan fokus di bidang IT  
+- 🎓 2023: Masuk SMK dan fokus di bidang IT  
 - 🧪 2023: Magang di HAR/INSTRUMENT (PLN Subsidiary)  
 - 💡 2024: Membuat proyek & desain pribadi  
-- 🧠 2025: RnD Intern di PT Usaha Jayamas Bhakti  
+- 🧠 2025: IT RnD Intern di PT Usaha Jayamas Bhakti  
 
 ---
 
@@ -91,7 +91,7 @@ Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain U
 - 📸 Instagram: [@idhescobar_](https://instagram.com/idhescobar_)  
 - 🔗 LinkedIn: [linkedin.com/in/hadiprasetia](https://www.linkedin.com/in/hadi-prasetia-300044365)  
 - 💻 GitHub: [Harsia-ID](https://github.com/Harsia-ID)  
-- 📍 Lokasi: Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
+- 📍 Lokasi: Jakarta Utara, Indonesia
 
 ---
 
