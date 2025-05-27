@@ -44,7 +44,7 @@ Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
 - Email: [hadiprasetia7@gmail.com](mailto:hadiprasetia7@gmail.com)  
 - WhatsApp: [wa.me/6287821991710](https://wa.me/6287821991710)  
 - Instagram: [@idhescobar_](https://instagram.com/idhescobar_)  
-- LinkedIn: [linkedin.com/in/hadiprasetia](https://linkedin.com/in/hadiprasetia)  
+- LinkedIn: [linkedin.com/in/hadiprasetia](https://www.linkedin.com/in/hadi-prasetia-300044365)  
 - GitHub: [Harsia-ID](https://github.com/Harsia-ID)  
 
 ---
