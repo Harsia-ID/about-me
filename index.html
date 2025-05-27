@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Hadi Prasetia | Portfolio</title>
+<style>
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #a8edea, #fed6e3);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: #1c1c1e;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+
+  .container {
+    max-width: 720px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: saturate(180%) blur(20px);
+    border-radius: 24px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+    padding: 3rem 3rem 4rem;
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  header img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-weight: 700;
+    font-size: 2.8rem;
+    margin-bottom: 0.3rem;
+  }
+
+  #typed {
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: #3b3b3b;
+    min-height: 2rem;
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: 1.8rem;
+    border-bottom: 3px solid #5ac8fa;
+    padding-bottom: 0.3rem;
+    margin-bottom: 1.3rem;
+    color: #0a84ff;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  ul li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid rgba(10, 132, 255, 0.1);
+    font-size: 1rem;
+    color: #2c2c2e;
+  }
+
+  ul li:last-child {
+    border-bottom: none;
+  }
+
+  .card {
+    background: rgba(255,255,255,0.85);
+    border-radius: 16px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    padding: 1.2rem 1.5rem;
+    margin-bottom: 1.2rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: default;
+  }
+
+  .card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  }
+
+  a {
+    color: #0a84ff;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.25s ease;
+  }
+
+  a:hover,
+  a:focus {
+    color: #007aff;
+    outline: none;
+  }
+
+  footer {
+    font-size: 0.9rem;
+    font-style: italic;
+    text-align: center;
+    color: #666;
+    margin-top: 3rem;
+  }
+
+  .contact-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 2rem;
+    justify-content: center;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #0a84ff;
+  }
+
+  .contact-links a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    body {
+      padding: 1rem;
+    }
+
+    .container {
+      padding: 2rem 2rem 3rem;
+      border-radius: 20px;
+      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    }
+
+    header img {
+      width: 110px;
+      height: 110px;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+    }
+
+    #typed {
+      font-size: 1.1rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+
+    ul li {
+      font-size: 0.95rem;
+    }
+
+    .card {
+      padding: 1rem 1.2rem;
+    }
+
+    .contact-links {
+      font-size: 0.95rem;
+      gap: 0.75rem 1.5rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 1.8rem;
+    }
+
+    #typed {
+      font-size: 1rem;
+    }
+
+    h2 {
+      font-size: 1.3rem;
+    }
+
+    ul li {
+      font-size: 0.9rem;
+    }
+
+    .card {
+      padding: 0.9rem 1rem;
+    }
+
+    .contact-links {
+      flex-direction: column;
+      gap: 0.6rem;
+      font-size: 0.9rem;
+    }
+  }
+</style>
+</head>
+<body>
+  <main class="container" role="main" aria-label="Portfolio Hadi Prasetia">
+    <header>
+      <img src="https://raw.githubusercontent.com/Harsia-ID/about-me/refs/heads/main/stelle.gif" alt="Welcome Animation" loading="lazy" />
+      <h1>Hai, saya Hadi Prasetia</h1>
+      <div id="typed" aria-live="polite" aria-atomic="true"></div>
+    </header>
+
+    <section aria-labelledby="skill-heading">
+      <h2 id="skill-heading">🔧 Keahlian & Teknologi</h2>
+      <ul>
+        <li><strong>Pengembangan Web:</strong> HTML, CSS, JavaScript, PHP, Python, MySQL, Laravel, Responsive Web Design</li>
+        <li><strong>UI/UX & Multimedia:</strong> Figma, Adobe XD, Adobe Photoshop, Adobe Premiere Pro</li>
+        <li><strong>Sistem & Jaringan:</strong> Linux System Administration, Server Management, Mikrotik Configuration, Network Design, Security, Administration</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="projects-heading">
+      <h2 id="projects-heading">🚀 Proyek Unggulan</h2>
+      <div class="card" role="article">
+        <strong>🕊️ Wedding Template:</strong> Template modern untuk website pernikahan.
+        <br />
+        <a href="https://github.com/Harsia-ID/Wedding-Template" target="_blank" rel="noopener noreferrer" aria-label="Lihat proyek Wedding Template di GitHub">Lihat proyek <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+      </div>
+      <div class="card" role="article">
+        <strong>📅 Jadwal Sekolah:</strong> Aplikasi jadwal pelajaran dinamis.
+        <br />
+        <a href="https://github.com/Harsia-ID/school-schedule" target="_blank" rel="noopener noreferrer" aria-label="Lihat proyek Jadwal Sekolah di GitHub">Lihat proyek <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+      </div>
+      <div class="card" role="article">
+        <strong>🏫 Projek Sekolah:</strong> Kumpulan tugas sekolah berbasis web.
+        <br />
+        <a href="https://github.com/Harsia-ID/project-sch" target="_blank" rel="noopener noreferrer" aria-label="Lihat proyek Projek Sekolah di GitHub">Lihat proyek <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+      </div>
+      <div class="card" role="article">
+        <strong>🎨 Contoh Design:</strong> Koleksi UI/UX dan desain grafis.
+        <br />
+        <a href="https://github.com/Harsia-ID/design" target="_blank" rel="noopener noreferrer" aria-label="Lihat proyek Contoh Design di GitHub">Lihat proyek <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+      </div>
+    </section>
+
+    <section aria-labelledby="experience-heading">
+      <h2 id="experience-heading">💼 Pengalaman</h2>
+      <div class="card" role="article">
+        <strong>HAR/INSTRUMENT (Anak perusahaan PT PLN)</strong>  
+        <br /><small>Oktober 2023 – Januari 2024</small>
+        <ul>
+          <li>Mempelajari fasilitas pembangkit listrik di Tanjung Priok</li>
+          <li>Mengenal proses pembangkitan & Human Machine Interface (HMI)</li>
+          <li>Mempelajari REOC & topologi jaringan pembangkit</li>
+        </ul>
+      </div>
+      <div class="card" role="article">
+        <strong>PT. Usaha Jayamas Bhakti (UJB)</strong>  
+        <br /><small>Januari 2025 – Maret 2025</small>
+        <ul>
+          <li>Belajar tentang self-service panel & cable crimping</li>
+          <li>Backup data menggunakan AOMEI</li>
+          <li>Memahami konsep & praktik jaringan komputer</li>
+        </ul>
+      </div>
+    </section>
+
+    <section aria-labelledby="journey-heading">
+      <h2 id="journey-heading">🛤️ Perjalanan Saya</h2>
+      <ul>
+        <li>🎓 2023: Masuk SMK dan fokus di bidang IT</li>
+        <li>🧪 2023: Magang di HAR/INSTRUMENT (PLN Subsidiary)</li>
+        <li>💡 2024: Membuat proyek & desain pribadi</li>
+        <li>🧠 2025: IT RnD Intern di PT Usaha Jayamas Bhakti</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="contact-heading">
+      <h2 id="contact-heading">📫 Hubungi Saya</h2>
+      <nav class="contact-links" aria-label="Kontak dan media sosial">
+        <a href="mailto:hadiprasetia7@gmail.com" aria-label="Email Hadi Prasetia">
+          <i class="fa-solid fa-envelope"></i> Email
+        </a>
+        <a href="https://wa.me/6287821991710" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Hadi Prasetia">
+          <i class="fa-brands fa-whatsapp"></i> WhatsApp
+        </a>
+        <a href="https://instagram.com/idhescobar_" target="_blank" rel="noopener noreferrer" aria-label="Instagram Hadi Prasetia">
+          <i class="fa-brands fa-instagram"></i> @idhescobar_
+        </a>
+        <a href="https://www.linkedin.com/in/hadi-prasetia-300044365" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Hadi Prasetia">
+          <i class="fa-brands fa-linkedin"></i> Hadi Prasetia
+        </a>
+        <a href="https://github.com/Harsia-ID" target="_blank" rel="noopener noreferrer" aria-label="GitHub Harsia-ID">
+          <i class="fa-brands fa-github"></i> Harsia-ID
+        </a>
+      </nav>
+      <p style="text-align:center; margin-top:1rem; font-size:0.9rem; color:#555;">
+        📍 Jakarta Utara, Indonesia
+      </p>
+    </section>
+
+    <footer>
+      &mdash; &ldquo;Strive to build things that matter.&rdquo; &mdash;
+    </footer>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script>
+    new Typed("#typed", {
+      strings: [
+        "Welcome to my portfolio!",
+        "I'm Hadi Prasetia 👨‍💻",
+        "Web Developer | UI/UX Designer | SysAdmin",
+      ],
+      typeSpeed: 50,
+      backSpeed: 30,
+      loop: true,
+    });
+  </script>
+</body>
+</html>
