@@ -24,7 +24,7 @@ Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain U
 Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
 
 ## 📫 Hubungi Saya
-- Email: [haadiprasetia7@gmail.com](mailto:haadiprasetia7@gmail.com)  
+- Email: [hadiprasetia7@gmail.com](mailto:hadiprasetia7@gmail.com)  
 - WhatsApp: [wa.me/6287821991710](https://wa.me/6287821991710)  
 - Instagram: [@idhescobar_](https://instagram.com/idhescobar_)  
 - LinkedIn: [linkedin.com/in/hadiprasetia](https://linkedin.com/in/hadiprasetia)  
