@@ -62,7 +62,7 @@ _Januari 2025 – Maret 2025 (3 bulan)_
 ---
 
 ## 📍 Lokasi
-Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
+Jakarta Utara, Indonesia
 
 ## 📫 Hubungi Saya
 - 📧 Email: [hadiprasetia7@gmail.com](mailto:hadiprasetia7@gmail.com)  
