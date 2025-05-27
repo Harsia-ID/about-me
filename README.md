@@ -1,6 +1,6 @@
 # 👋 Hai, saya Hadi Prasetia
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome](https://media.tenor.com/dSUrLfxrrrQAAAAC/stelle-hsr-hsr.gif)
 
 Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain UI/UX, administrasi sistem, dan jaringan. Berpengalaman mengelola server, merancang dan mengamankan jaringan, serta membangun aplikasi web yang responsif dan user-friendly.
 
@@ -49,16 +49,25 @@ _Januari 2025 – Maret 2025 (3 bulan)_
 
 ## 🚀 Proyek Unggulan
 
-- **[Project Nama]** - Deskripsi singkat proyek dan teknologi yang digunakan.  
-- **[Project Nama]** - Deskripsi singkat proyek dan teknologi yang digunakan.
+- **Wedding Template**  
+  Template website modern dan responsif untuk acara pernikahan, dilengkapi dengan fitur RSVP, galeri foto, dan countdown event.  
+  📂 Kode: [github.com/Harsia-ID/Wedding-Template](https://github.com/Harsia-ID/Wedding-Template)  
+  🛠️ Teknologi: HTML, CSS, JavaScript, Bootstrap
+
+- **Jadwal Sekolah**  
+  Aplikasi web manajemen jadwal sekolah yang memudahkan siswa dan guru dalam mengatur dan mengakses jadwal pelajaran secara online.  
+  📂 Kode: [github.com/Harsia-ID/school-schedule](https://github.com/Harsia-ID/school-schedule)  
+  🛠️ Teknologi: PHP, MySQL, Bootstrap, JavaScript
+
+- **Contoh Design**  
+  Koleksi desain UI/UX dan template grafis yang dibuat menggunakan Figma dan Adobe XD, cocok untuk inspirasi proyek digital.  
+  📂 Kode: [github.com/Harsia-ID/design](https://github.com/Harsia-ID/design)  
+  🛠️ Tools: Figma, Adobe XD
 
 ---
 
-## 📊 GitHub Stats
-
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsia-ID&show_icons=true&theme=radical)
-
----
+## 📍 Lokasi
+Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
 
 ## 📫 Hubungi Saya
 - 📧 Email: [hadiprasetia7@gmail.com](mailto:hadiprasetia7@gmail.com)  
@@ -70,3 +79,9 @@ _Januari 2025 – Maret 2025 (3 bulan)_
 ---
 
 > _"Strive to build things that matter."_
+
+---
+
+## 📊 GitHub Stats
+
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsia-ID&show_icons=true&theme=radical)
