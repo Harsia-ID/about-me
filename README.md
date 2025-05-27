@@ -1,18 +1,34 @@
-## 👋 Hai, saya Hadi Prasetia
+# 👋 Hai, saya Hadi Prasetia
 
-Saya adalah seorang profesional di bidang [sebutkan bidang spesialisasi Anda, misalnya: pengembangan perangkat lunak, manajemen proyek, teknik sipil], dengan pengalaman di [sebutkan industri atau perusahaan terkait, misalnya: teknologi, konstruksi, manufaktur]. Saya memiliki latar belakang pendidikan dari [sebutkan institusi pendidikan Anda, misalnya: Universitas Indonesia, Institut Teknologi Bandung].
+Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain UI/UX, administrasi sistem, dan jaringan. Berpengalaman mengelola server, merancang dan mengamankan jaringan, serta membangun aplikasi web yang responsif dan user-friendly.
 
-### 🔧 Keahlian & Teknologi
-- **Bahasa Pemrograman:** JavaScript, Python, Java
-- **Framework & Alat:** React, Node.js, Git
+## 🔧 Keahlian & Teknologi
 
-### 📍 Lokasi
-Saya berbasis di Jakarta.
+### Pengembangan Web
+- HTML, CSS, JavaScript  
+- PHP, Python, MySQL, Laravel  
+- Responsive Web Design  
 
-### 📫 Hubungi Saya
-- GitHub: [https://github.com/Harsia-ID](https://github.com/Harsia-ID)
-- LinkedIn: [https://www.linkedin.com/in/hadi-prasetia-300044365/](https://www.linkedin.com/in/hadi-prasetia-300044365/)
-- Email: [email@example.com](mailto:email@example.com)
+### Desain UI/UX & Multimedia
+- UI/UX Design  
+- Figma, Adobe XD  
+- Adobe Photoshop, Adobe Premiere Pro  
+
+### Administrasi Sistem & Jaringan
+- Basic Server Configuration & Server Management  
+- Mikrotik Configuration  
+- Network Design, Network Security, Network Administration  
+- Linux System Administration  
+
+## 📍 Lokasi
+Jl Mantang gg 3 blok L, Jakarta Utara, Indonesia
+
+## 📫 Hubungi Saya
+- Email: [haadiprasetia7@gmail.com](mailto:haadiprasetia7@gmail.com)  
+- WhatsApp: [wa.me/6287821991710](https://wa.me/6287821991710)  
+- Instagram: [@idhescobar_](https://instagram.com/idhescobar_)  
+- LinkedIn: [linkedin.com/in/hadiprasetia](https://linkedin.com/in/hadiprasetia)  
+- GitHub: [Harsia-ID](https://github.com/Harsia-ID)  
 
 ---
 
