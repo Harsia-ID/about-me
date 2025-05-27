@@ -47,17 +47,25 @@ _Januari 2025 – Maret 2025 (3 bulan)_
 
 ## 🚀 Proyek Unggulan
 
-- **Wedding Template**  
-  📂 [github.com/Harsia-ID/Wedding-Template](https://github.com/Harsia-ID/Wedding-Template)
+- **🕊️ Wedding Template**  
+  Template website modern dan elegan untuk acara pernikahan, lengkap dengan fitur RSVP, galeri foto, dan countdown event.  
+  📂 [github.com/Harsia-ID/Wedding-Template](https://github.com/Harsia-ID/Wedding-Template)  
+  🛠️ HTML, CSS, JavaScript, Bootstrap
 
-- **Jadwal Sekolah**  
-  📂 [github.com/Harsia-ID/school-schedule](https://github.com/Harsia-ID/school-schedule)
+- **📅 Jadwal Sekolah**  
+  Aplikasi web untuk mengatur dan menampilkan jadwal pelajaran secara dinamis dan rapi, memudahkan siswa dan guru.  
+  📂 [github.com/Harsia-ID/school-schedule](https://github.com/Harsia-ID/school-schedule)  
+  🛠️ PHP, MySQL, JavaScript, Bootstrap
 
-- **Projek Sekolah**  
-  📂 [github.com/Harsia-ID/project-sch](https://github.com/Harsia-ID/project-sch)
+- **🏫 Projek Sekolah**  
+  Kumpulan tugas dan latihan terkait sekolah berbasis web yang mencakup berbagai konsep dasar pengembangan aplikasi.  
+  📂 [github.com/Harsia-ID/project-sch](https://github.com/Harsia-ID/project-sch)  
+  🛠️ HTML, CSS, PHP
 
-- **Contoh Design**  
-  📂 [github.com/Harsia-ID/design](https://github.com/Harsia-ID/design)
+- **🎨 Contoh Design**  
+  Koleksi desain UI/UX dan grafis sebagai portofolio awal untuk tampilan antarmuka dan user experience.  
+  📂 [github.com/Harsia-ID/design](https://github.com/Harsia-ID/design)  
+  🛠️ Figma, Adobe XD
 
 ---
 
