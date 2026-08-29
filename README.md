@@ -87,8 +87,7 @@ Saya seorang profesional IT dengan keahlian di bidang pengembangan web, desain U
 ## 📫 Hubungi Saya
 
 - 📧 Email: [hadiprasetia7@gmail.com](mailto:hadiprasetia7@gmail.com)  
-- 📱 WhatsApp: [wa.me/6287821991710](https://wa.me/6287821991710)  
-- 📸 Instagram: [@idhescobar_](https://instagram.com/idhescobar_)  
+- 📱 WhatsApp: [wa.me/6287821991710](https://wa.me/6287821991710)   
 - 🔗 LinkedIn: [linkedin.com/in/hadiprasetia](https://www.linkedin.com/in/hadi-prasetia-300044365)  
 - 💻 GitHub: [Harsia-ID](https://github.com/Harsia-ID)  
 - 📍 Lokasi: Jakarta Utara, Indonesia
